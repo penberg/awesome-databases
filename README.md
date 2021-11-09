@@ -35,6 +35,7 @@ Databases are awesome!
 ### Graph databases
 
 * Dgraph
+* [Neo4j](https://neo4j.com)
 
 ### Key-value stores
 
