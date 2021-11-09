@@ -25,6 +25,7 @@ Databases are awesome!
 ### Distributed relational databases
 
 * CockroachDB
+* [SingleStore](https://www.singlestore.com)
 * [YugabyteDB](https://www.yugabyte.com)
 
 ### Document stores
