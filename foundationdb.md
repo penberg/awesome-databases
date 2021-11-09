@@ -10,7 +10,8 @@ The paper has also been discussed elsewhere:
 ## Introduction
 
 FoundationDB is an unbundled, transactional key-value store, which aims to combine the flexibility and scalability of NoSQL database systems with the ACID transactional capabilities of NewSQL database systems.
-One of the main motivations stated for FoundationDB is the need for cloud services to persist their application state, which the authos argue to require the following properties from a data store:
+
+The authors state that FoundationDB is motivated by the requirements of cloud services, which need the following properties from a data store to persist application state: 
 
 * Fault tolerance
 * High availability
@@ -19,8 +20,9 @@ One of the main motivations stated for FoundationDB is the need for cloud servic
 * Millions of requests per second
 * Petabyte/exabyte range of data
 
-The scalability, high availability, and fault tolerance properties have been addressed by NoSQL systems such as Apache Cassandra, MongoDB, and CouchBase already a decade ago, but with _eventual consistency_ model, which the authors argue to pushe complexity to application developers who have to manage concurrent updates.
-FoundationDB attempts to bridge this gap by providing serializable transactions that scale for _read-mostly_ workloads.
+Fault tolerance, high availability, and scalability have been addressed by NoSQL systems such as Apache Cassandra, MongoDB, and CouchBase a decade ago.
+However, these NoSQL systems solve the problem with _eventual consistency_ model, which the authors argue to pushe complexity to application developers who have to manage concurrent updates.
+FoundationDB, on the other hand, attempts to bridge this gap by providing serializable transactions that scale for _read-mostly_ workloads.
 The authors also note that existing NoSQL systems such as Apache Cassandra, MongoDB, and CouchBase have also recently added some support for ACID, and even SQL.
 
 ## Design
