@@ -5,15 +5,22 @@ Databases are awesome!
 ## Table of Contents
 
 * [Database systems](#database-systems)
+  * [Distributed relational databases](#distributed-relational-databases)
+  * [Document stores](#document-stores)
+  * [Graph databases](#graph-databases)
+  * [Key-value stores](#key-value-stores)
+  * [Multi-model databases](#multi-model-databases)
+  * [Time series databases](#time-series-databases)
+  * [Wide column stores](#wide-column-stores)
 * [Research](#research)
+  * [Foundations](#foundations)
+  * [Distributed databases](#distributed-databases)
+  * [Consistency](#consistency)
+  * [Query optimization](#query-optimization)
+  * [Others](#others)
 * [Resources](#resources)
 
 ## Database systems
-
-### Key-value stores
-
-* Aerospike
-* FoundationDB
 
 ### Distributed relational databases
 
@@ -27,6 +34,11 @@ Databases are awesome!
 ### Graph databases
 
 * Dgraph
+
+### Key-value stores
+
+* Aerospike
+* FoundationDB
 
 ### Multi-model databases
 
