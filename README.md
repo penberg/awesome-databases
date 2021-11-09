@@ -24,37 +24,37 @@ Databases are awesome!
 
 ### Distributed relational databases
 
-* CockroachDB
+* [CockroachDB](https://www.cockroachlabs.com)
 * [SingleStore](https://www.singlestore.com)
 * [YugabyteDB](https://www.yugabyte.com)
 
 ### Document stores
 
-* MongoDB
+* [MongoDB](https://www.mongodb.com)
 
 ### Graph databases
 
-* Dgraph
+* [Dgraph](https://dgraph.io)
 * [Neo4j](https://neo4j.com)
 
 ### Key-value stores
 
-* Aerospike
-* FoundationDB
+* [Aerospike](https://aerospike.com)
+* [FoundationDB](https://www.foundationdb.org)
 
 ### Multi-model databases
 
-* Fauna
+* [Fauna](https://fauna.com)
 
 ### Time series databases
 
-* InfluxDB
+* [InfluxDB](https://www.influxdata.com)
 
 ### Wide column stores
 
-* Apache Cassandra
-* DynamoDB
-* ScyllaDB
+* [Apache Cassandra](https://cassandra.apache.org/)
+* [DynamoDB](https://aws.amazon.com/dynamodb/)
+* [ScyllaDB](https://www.scylladb.com)
 
 ## Research
 
