@@ -7,6 +7,7 @@ Databases are awesome!
 * [Database systems](#database-systems)
   * [Distributed relational databases](#distributed-relational-databases)
   * [Document stores](#document-stores)
+  * [Embedded databases](#embedded-databases)
   * [Graph databases](#graph-databases)
   * [Key-value stores](#key-value-stores)
   * [Multi-model databases](#multi-model-databases)
@@ -32,6 +33,10 @@ Databases are awesome!
 
 * [MongoDB](https://www.mongodb.com)
 
+### Embedded databases
+
+* [SQLite](https://www.sqlite.org/)
+* 
 ### Graph databases
 
 * [Dgraph](https://dgraph.io)
