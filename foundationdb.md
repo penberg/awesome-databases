@@ -21,7 +21,7 @@ The authors state that FoundationDB is motivated by the requirements of cloud se
 * Petabyte/exabyte range of data
 
 Fault tolerance, high availability, and scalability have been addressed by NoSQL systems such as Apache Cassandra, MongoDB, and CouchBase a decade ago.
-However, these NoSQL systems solve the problem with _eventual consistency_ model, which the authors argue to pushe complexity to application developers who have to manage concurrent updates.
+However, these NoSQL systems solve the problem with _eventual consistency_ model, which the authors argue to pushes complexity to application developers who have to manage concurrent updates.
 FoundationDB, on the other hand, attempts to bridge this gap by providing serializable transactions that scale for _read-mostly_ workloads.
 The authors also note that existing NoSQL systems such as Apache Cassandra, MongoDB, and CouchBase have also recently added some support for ACID, and even SQL.
 
