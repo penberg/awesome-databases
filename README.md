@@ -36,7 +36,7 @@ Databases are awesome!
 ### Embedded databases
 
 * [SQLite](https://www.sqlite.org/)
-* 
+
 ### Graph databases
 
 * [Dgraph](https://dgraph.io)
