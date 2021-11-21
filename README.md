@@ -49,6 +49,7 @@ Databases are awesome!
 
 ### Multi-model databases
 
+* [CosmosDB](https://azure.microsoft.com/en-us/services/cosmos-db/)
 * [Fauna](https://fauna.com)
 
 ### Time series databases
