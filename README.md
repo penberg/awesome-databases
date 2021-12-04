@@ -73,7 +73,7 @@ Databases are awesome!
 ### Distributed databases
 
 * [FoundationDB: A Distributed Unbundled Transactional Key Value Store](https://www.foundationdb.org/files/fdb-paper.pdf) by Jingyu Zhou et al. SIGMOD'21.
-* [CockroachDB: The Resilient Geo-Distributed SQL Database](https://resources.cockroachlabs.com/guides/cockroachdb-the-resilient-geo-distributed-sql-database-sigmod-2020) by Rebecca Taft et al. SIGMOD'20.
+* [CockroachDB: The Resilient Geo-Distributed SQL Database](https://dl.acm.org/doi/pdf/10.1145/3318464.3386134) by Rebecca Taft et al. SIGMOD'20.
 
 ### Consistency
 
