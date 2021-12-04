@@ -68,7 +68,8 @@ Databases are awesome!
 ### Foundations
 
 * [A Relational Model of Data for Large Shared Data Banks](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf) by E. F. Codd. CAMC, June 1970.
-* [Volcano - An Extensible and Parallel Query Evaluation System](https://paperhub.s3.amazonaws.com/dace52a42c07f7f8348b08dc2b186061.pdf) by Goetz Graefe. IEEE TKDE, VOL. 6, NO. 1, 1994.
+* [Volcano - An Extensible and Parallel Query Evaluation System](https://paperhub.s3.amazonaws.com/dace52a42c07f7f8348b08dc2b186061.pdf) by Goetz Graefe. IEEE TKDE, Volume 6, Number, 1994.
+* [The Cascades Framework for Query Optimization](https://www.cse.iitb.ac.in/infolab/Data/Courses/CS632/Papers/Cascades-graefe.pdf) by Goetz Graefe. IEEE Data Engineering Bulletin, Volume 18, Number 3, September 1995.
 
 ### Distributed databases
 
