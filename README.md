@@ -25,6 +25,7 @@ Databases are awesome!
 
 ### Distributed relational databases
 
+* [Cloud Spanner](https://cloud.google.com/spanner)
 * [CockroachDB](https://www.cockroachlabs.com)
 * [SingleStore](https://www.singlestore.com)
 * [YugabyteDB](https://www.yugabyte.com)
