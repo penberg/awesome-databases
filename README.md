@@ -55,6 +55,7 @@ Databases are awesome!
 ### Time series databases
 
 * [InfluxDB](https://www.influxdata.com)
+* [Timescale](https://www.timescale.com)
 
 ### Wide column stores
 
