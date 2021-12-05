@@ -15,9 +15,11 @@ FoundationDB is an unbundled, transactional key-value store, which aims to combi
 
 At its core, FoundationDB is an ordered, transactional key-value store, which supports strictly serializable multi-key transactions. Unlike many other database systems, FoundationDB does not provide structured semantics, query language, data model, schema management, or secondary indexes. Instead, FoundationDB focuses on providing low level building blocks for applications and database layers that implement needed semantics.
 
-* Unbundled architecture: control plane/data plane separation.
-  * Control plane: coordinators, cluster controller, data distributor.
-  * Data plane: transaction system, log system, storage system.
+FoundationDB uses an _unbundled architecture_ where each component can be scaled separately.
+At high level, components are split into control plane, which manages system metadata, and data plane components, which manages data.
+
+  * Control plane components: coordinators, cluster controller, data distributor.
+  * Data plane components: transaction system, log system, storage system.
 
 ## Transactions
 
