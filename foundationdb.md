@@ -35,3 +35,9 @@ At high level, components are split into control plane, which manages system met
   * FoundationDB method: use multiple availability zones within the same region.
 
 ## Simulator
+
+FoundationDB developers took an unusual approach for testing the system.
+They built a deterministic simulator for testing the database before writing the database itself.
+In the database code, all sources of non-determinism (networking, disk, time, and PRNG) are abstracted away.
+Real database code can either be run against simulated I/O or real I/O.
+The limitation of this approach is that testing third-party libraries and dependencies is very hard, which is why FoundationDB developers are avoiding them.
