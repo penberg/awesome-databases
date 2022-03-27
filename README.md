@@ -90,6 +90,7 @@ Databases are awesome!
 * [Fast Scans on Key-Value Stores](http://www.vldb.org/pvldb/vol10/p1526-bocksrocker.pdf) by Markus Pilman et al. VLDB'17.
 * [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/pdf/10.1145/2882903.2903741) by Benoit Dageville et al. SIGMOD'16.
 * [The Cosmos Big Data Platform at Microsoft: Over a Decade of Progress and a Decade to Look Forward](http://vldb.org/pvldb/vol14/p3148-jindal.pdf) by Conor Power et al. VLDB'21.
+* [Data Blocks: Hybrid OLTP and OLAP on Compressed Storage using both Vectorization and Compilation](https://db.in.tum.de/downloads/publications/datablocks.pdf) by Harald Lang et al. SIGMOD'16.
 
 ## Resources
 
