@@ -94,6 +94,7 @@ Databases are awesome!
 
 ## Blogs
 
+* [How to Build a Relational Database From Scratch](https://medium.com/swlh/how-to-build-a-relational-database-from-scratch-e208061027c7) by Tivadar Danka
 * "Writing a SQL database from scratch in Go" by Phil Eaton
   * [1. SELECT, INSERT, CREATE and a REPL](https://notes.eatonphil.com/database-basics.html)
   * [2. Binary expressions and WHERE filters](https://notes.eatonphil.com/database-basics-expressions-and-where.html)
