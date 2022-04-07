@@ -92,6 +92,14 @@ Databases are awesome!
 * [The Cosmos Big Data Platform at Microsoft: Over a Decade of Progress and a Decade to Look Forward](http://vldb.org/pvldb/vol14/p3148-jindal.pdf) by Conor Power et al. VLDB'21.
 * [Data Blocks: Hybrid OLTP and OLAP on Compressed Storage using both Vectorization and Compilation](https://db.in.tum.de/downloads/publications/datablocks.pdf) by Harald Lang et al. SIGMOD'16.
 
+## Blogs
+
+* "Writing a SQL database from scratch in Go" by Phil Eaton
+  * [1. SELECT, INSERT, CREATE and a REPL](https://notes.eatonphil.com/database-basics.html)
+  * [2. Binary expressions and WHERE filters](https://notes.eatonphil.com/database-basics-expressions-and-where.html)
+  * [3. Indexes](https://notes.eatonphil.com/database-basics-indexes.html)
+  * [4. A database/sql driver](https://notes.eatonphil.com/database-basics-a-database-sql-driver.html)
+ 
 ## Resources
 
 * [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
