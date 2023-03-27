@@ -29,6 +29,7 @@ Databases are awesome!
 * [CockroachDB](https://www.cockroachlabs.com)
 * [SingleStore](https://www.singlestore.com)
 * [YugabyteDB](https://www.yugabyte.com)
+* [Polybase](https://polybase.xyz)
 
 ### Document stores
 
