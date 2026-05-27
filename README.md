@@ -27,6 +27,7 @@ Databases are awesome!
 
 * [Cloud Spanner](https://cloud.google.com/spanner)
 * [CockroachDB](https://www.cockroachlabs.com)
+* [Neon](https://neon.com)
 * [SingleStore](https://www.singlestore.com)
 * [YugabyteDB](https://www.yugabyte.com)
 
