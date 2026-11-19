@@ -50,6 +50,7 @@ Databases are awesome!
 
 ### Multi-model databases
 
+* [Axonio](https://github.com/hackcat29/ClawDB) - Memory engine for AI agents with vector and graph retrieval and memory branching.
 * [CosmosDB](https://azure.microsoft.com/en-us/services/cosmos-db/)
 * [Fauna](https://fauna.com)
 
